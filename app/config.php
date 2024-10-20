@@ -17,7 +17,7 @@ try{
     //echo "La conexión a la base de datos fue con exito";
 }catch (PDOException $e){
     //print_r($e);
-    echo "Error al conectar a la base de datos";
+    echo "Error de conexión: " . $e->getMessage();
 }
 
 $URL = "http://milogin.novashop-pe.com";

@@ -5,9 +5,9 @@
  * Date: 17/1/2023
  * Time: 13:00
  */
-define('SERVIDOR','localhost');
-define('USUARIO','root');
-define('PASSWORD','');
+define('SERVIDOR','mysql.novashop-pe.com');
+define('USUARIO','u928333281_markoantonio03');
+define('PASSWORD','Nova$hop1017');
 define('BD','sistemadeventas');
 
 $servidor = "mysql:dbname=".BD.";host=".SERVIDOR;

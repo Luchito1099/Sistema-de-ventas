@@ -5,7 +5,7 @@
  * Date: 17/1/2023
  * Time: 13:00
  */
-define('SERVIDOR','mysql.novashop-pe.com');
+define('SERVIDOR','127.0.01:3306');
 define('USUARIO','u928333281_markoantonio03');
 define('PASSWORD','Nova$hop1017');
 define('BD','u928333281_sistemadeventa');

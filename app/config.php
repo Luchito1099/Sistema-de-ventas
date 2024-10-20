@@ -8,7 +8,7 @@
 define('SERVIDOR','mysql.novashop-pe.com');
 define('USUARIO','u928333281_markoantonio03');
 define('PASSWORD','Nova$hop1017');
-define('BD','sistemadeventas');
+define('BD','u928333281_sistemadeventa');
 
 $servidor = "mysql:dbname=".BD.";host=".SERVIDOR;
 

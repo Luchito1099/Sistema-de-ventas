@@ -20,7 +20,7 @@ try{
     echo "Error al conectar a la base de datos";
 }
 
-$URL = "http://localhost/www.sistemadeventas.com";
+$URL = "http://milogin.novashop-pe.com";
 
 date_default_timezone_set("America/Caracas");
 $fechaHora = date('Y-m-d H:i:s');

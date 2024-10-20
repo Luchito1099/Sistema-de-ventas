@@ -186,7 +186,7 @@ CREATE TABLE `tb_usuarios` (
 
 INSERT INTO `tb_usuarios` (`id_usuario`, `nombres`, `email`, `password_user`, `token`, `id_rol`, `fyh_creacion`, `fyh_actualizacion`) VALUES
 (1, 'Freddy Hilari', 'hilariweb@gmail.com', '$2y$10$VIDXuo4wKCt/x5BHkwHZAOw9lJNirjyLbBHPa9AA4/xgOW.91y/DG', '', 1, '2023-01-24 15:16:01', '2023-01-24 15:16:01');
-(2, 'Luis Andres', 'luisuser99@gmail.com', 'LA957575Luan', '', 1, '2023-01-24 15:16:01', '2023-01-24 15:16:01');
+
 --
 -- Índices para tablas volcadas
 --

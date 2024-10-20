@@ -5,7 +5,7 @@
  * Date: 17/1/2023
  * Time: 13:00
  */
-define('SERVIDOR','127.0.0.1:3306');
+define('SERVIDOR','127.0.0.1');
 define('USUARIO','u928333281_markoantonio03');
 define('PASSWORD','Nova$hop1017');
 define('BD','u928333281_sistemadeventa');
